@@ -1,0 +1,5 @@
+global.c:17:6:led0	8	static
+global.c:22:6:led1	8	static
+global.c:27:6:led2	8	static
+global.c:32:6:led3	8	static
+global.c:37:6:led4	8	static
