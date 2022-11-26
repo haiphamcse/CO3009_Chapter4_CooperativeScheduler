@@ -1,0 +1,2 @@
+fsm.c:10:6:led	8	static
+fsm.c:15:6:toggle	8	static
